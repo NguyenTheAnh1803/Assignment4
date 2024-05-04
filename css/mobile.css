@@ -1,0 +1,52 @@
+@media only screen and (max-width: 576px) {
+  /* #banner {
+    height: 300px;
+    background-size: cover;
+  }
+  .container-section:nth-child(3) {
+    display: none;
+  }
+  section > .container {
+    width: 100%;
+  }
+  .container-section {
+    display: block;
+    border: none;
+  }
+  #job-info > .container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+  }
+  #about > .container {
+    height: auto;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+  }
+  #about .container,
+  .prize {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+  }
+  .prize {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+  }
+  .prize-row {
+    flex-direction: column;
+    border-bottom: none;
+  }
+  .prize-two {
+    border-left: none;
+  }
+  .prize-one,
+  .prize-two,
+  .prize-three {
+    border-bottom: 1px solid orange;
+    flex-direction: column;
+  }
+  .project-content {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+  } */
+}

@@ -1,0 +1,24 @@
+/* @media only screen and (max-width: 992px) and (min-width: 768px) {
+  .container-section:nth-child(3) {
+    display: none;
+  }
+  #target {
+  }
+  #job-info > .container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 30px;
+  }
+  .prize-one,
+  .prize-two,
+  .prize-three {
+    flex-direction: column;
+  }
+  .project-info {
+    flex-wrap: wrap;
+  }
+  .footer {
+  } */
+
+/* Create four equal columns */
+/* } */
